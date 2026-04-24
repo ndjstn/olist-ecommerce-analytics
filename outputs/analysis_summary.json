@@ -2,6 +2,9 @@
   "customers_unique": 93358,
   "delivered_orders": 96478,
   "total_revenue_brl": 15419773.75,
+  "median_order_brl": 105.28,
+  "mean_order_brl": 159.82683876116835,
+  "repeat_rate": 0.03000278497825575,
   "segments": {
     "Others": 23261,
     "Lost": 14986,
