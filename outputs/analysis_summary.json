@@ -1,0 +1,21 @@
+{
+  "customers_unique": 93358,
+  "delivered_orders": 96478,
+  "total_revenue_brl": 15419773.75,
+  "segments": {
+    "Others": 23261,
+    "Lost": 14986,
+    "New / Recent": 14984,
+    "At risk": 14919,
+    "Champions": 14871,
+    "Big spenders": 10337
+  },
+  "segment_revenue": {
+    "Others": 2346485.67,
+    "Lost": 2441759.58,
+    "New / Recent": 2448694.43,
+    "At risk": 2529831.13,
+    "Champions": 2631535.92,
+    "Big spenders": 3021467.02
+  }
+}
